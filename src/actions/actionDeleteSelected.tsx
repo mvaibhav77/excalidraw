@@ -46,7 +46,6 @@ const deleteSelectedElements = (
     appState: {
       ...appState,
       selectedElementIds: {},
-      selectedGroupIds: {},
     },
   };
 };
