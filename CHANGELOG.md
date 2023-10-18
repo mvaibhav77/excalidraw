@@ -5,3 +5,7 @@
 ## 2023-10-18
 
 - Added Closing of "Save to..." dialog box automatically after save drawing to disk.
+
+## 2023-10-19
+
+- Set Selected Group IDs to null after deletion of selected group.
